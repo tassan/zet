@@ -1,10 +1,10 @@
 202204290843
 
-# golang-000
+# golang
 
-[[golang packages]]
-[[golang imports]]
-[[golang exported names]]
+[[golang-packages]]
+[[golang-imports]]
+[[golang-exported-names]]
 
 ---
 
