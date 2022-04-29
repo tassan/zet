@@ -19,4 +19,4 @@
 
 
 ---
-Tags: #note #golang #programming #study 
+Tags: #note #golang #programming #study #programming_language

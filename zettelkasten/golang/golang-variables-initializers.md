@@ -23,4 +23,4 @@ func main() {
 # References
 1. [[golang-variables]]
 ---
-Tags: #note
+Tags: #note #golang 

@@ -25,7 +25,6 @@ Next: [[golang-variables-initializers]]
 ---
 # References
 
-1. 
 
 ---
-Tags: #note
+Tags: #note #golang 
