@@ -31,6 +31,8 @@ x, y int
 ```
 
 
+Next: [[golang-functions-multiple-results]]
+
 
 **Notes**: 
 - the type comes *after* the variable name.

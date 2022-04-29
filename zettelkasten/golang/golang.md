@@ -5,6 +5,10 @@
 [[golang-packages]]
 [[golang-imports]]
 [[golang-exported-names]]
+[[golang-functions]]
+[[golang-variables]]
+
+
 
 ---
 
